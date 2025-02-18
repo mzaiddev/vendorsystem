@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import{ useState } from 'react';
 import { Search, MapPin, Calendar, Users, ArrowRight } from 'lucide-react';
 
 const ExpoSelection = () => {

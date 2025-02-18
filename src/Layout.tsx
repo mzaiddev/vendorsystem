@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import{ useState } from 'react';
 import { Home, Calendar, Box, BarChart2, Truck, Settings, Bell } from 'lucide-react';
 import ExpoSelection from './pages/ExpoSelection';
 import VendorRegistration from './pages/Registration';
