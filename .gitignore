@@ -22,3 +22,4 @@ tempnpm-cache/*
 *.njsproj
 *.sln
 *.sw?
+config.bat
